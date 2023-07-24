@@ -2,3 +2,5 @@
 *.mod*
 *.order*
 *.o*
+*.ko*
+*.symvers*
