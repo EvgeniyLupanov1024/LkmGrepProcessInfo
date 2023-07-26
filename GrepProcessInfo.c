@@ -1,4 +1,5 @@
  #include <stdio.h>
+ 
  int main (int argc, char * argv[]) 
  {
     int i;
@@ -10,6 +11,6 @@
     if(argc == 1) {
             printf("Command line has no additional arguments\n");
     }
-    
+
     return 0;
  }
